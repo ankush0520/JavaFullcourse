@@ -6,7 +6,7 @@ class A{
 	}
 	A(int a)
 	{
-		this();//here this keyword is called default constructor 
+		this();//here this keyword is calling default constructor from parametrized constructor
         System.out.println(a);
 	}
 	
