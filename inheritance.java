@@ -1,4 +1,4 @@
-class Student
+class Student //super class
 {
 	int roll,marks;//we can use protected int but not private int in the case of inheritence
 	String name;
@@ -7,7 +7,7 @@ class Student
 		System.out.println("Enter roll,name & marks");
 	}
 }
-class ankush extends Student
+class ankush extends Student //sub class
 {
 	void display()
 	{
