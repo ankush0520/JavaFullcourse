@@ -1,7 +1,7 @@
 import java.io.*;
 class createFile
 {
-  public static void main(String[] args) // we can remove try and catch block and write public static void main(String[] args) throws IOException
+  public static void main(String[] args) // we can remove try and catch block and write (public static void main(String[] args) throws IOException)
   {
 		File f=new File("C:\\Users\\hp\\OneDrive\\Desktop\\ank.txt");
 	try
