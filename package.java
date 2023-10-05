@@ -3,7 +3,7 @@ package ankush;
 
 class A
 {
-	private void show()
+	private void show() //private access modifier
 	{
 		System.out.println("Learn Coding....");
 	}
