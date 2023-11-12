@@ -23,3 +23,4 @@ class  c extends A
 		r.show();
 	}
 }
+/////
