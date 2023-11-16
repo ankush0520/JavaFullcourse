@@ -15,3 +15,4 @@ class for_loop{
        obj.close();
     }
 }
+/////
