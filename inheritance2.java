@@ -25,3 +25,4 @@ class Multiple implements A,B
   	m.Disp();
   }
 }
+//////////////////
