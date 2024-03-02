@@ -22,3 +22,4 @@ class B{
 	 A ref=new A(10,"Ankush");
 	}
 }
+////////////////
