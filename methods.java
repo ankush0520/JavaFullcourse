@@ -11,7 +11,7 @@ public class methods {
     {
          return a+b;
     }
-}*////////////
+}
 
 //method without parameter with no return
 
