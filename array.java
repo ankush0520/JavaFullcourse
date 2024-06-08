@@ -21,4 +21,5 @@ public class array {
         s.close();
     }
 }
+/////////
 
