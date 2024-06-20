@@ -14,4 +14,3 @@ class A{
 		A ans=new A();
 	}
 }
-//
