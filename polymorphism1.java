@@ -24,4 +24,3 @@ class Demo
    	r.draw();
    }
 }
-///////
