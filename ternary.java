@@ -9,4 +9,5 @@ public class ternary {
     }
     
 }
+///////
 //output 20
