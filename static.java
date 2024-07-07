@@ -6,7 +6,5 @@ static{//instance blocks
 }
 public static void main(String[] args)
 {
-	}
-
-
+}
 }
