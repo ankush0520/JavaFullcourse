@@ -20,4 +20,3 @@ class B{
 //output-
 //0
 //null
-///
