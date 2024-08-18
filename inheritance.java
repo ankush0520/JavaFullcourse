@@ -21,3 +21,4 @@ class ankush extends Student //sub class
 		a.display();
 	}
 }
+/////////////
