@@ -19,6 +19,4 @@ class B
 	}
 }
 //for compile we have to write "javac -d . class_name.java"
-//for run "java pacakge_name.class_name"
-
-///////////////////
+//for run "java pacakge_name.class_name
