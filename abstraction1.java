@@ -45,4 +45,3 @@ class absClass
 		c.legs();
 	}
 }
-/////////////
