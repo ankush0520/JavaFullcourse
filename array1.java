@@ -23,4 +23,3 @@ public class array1 {
         s.close();
     }
 }
-/////////////
