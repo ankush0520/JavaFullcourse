@@ -53,4 +53,3 @@ class C extends B //sub2 class
 		x.rem();
 	}
 }
-//////////////
