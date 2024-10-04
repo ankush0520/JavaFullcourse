@@ -14,4 +14,4 @@ class A{
 		 A ref=new A(100);
 		 ref.show();
 	}
-}
+}/////////
