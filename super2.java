@@ -18,4 +18,3 @@ class Test{
 		B c=new B();
 	}
 }
-////
