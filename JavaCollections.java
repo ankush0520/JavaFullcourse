@@ -20,7 +20,7 @@ class JavaCollections
 		System.out.println(Name);
 
 		System.out.println(Name.get(0)); //print only the 0th index element
-		Name.clear();       // delete all the element from the array
+		Name.clear();  // delete all the element from the array
 		System.out.println(Name);
     }
 }
