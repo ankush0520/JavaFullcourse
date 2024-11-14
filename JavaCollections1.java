@@ -19,7 +19,7 @@ class JavaCollections
 		System.out.println(Name);
 		Name.removeLast();  //remove the element from end of the linkedlist
 		System.out.println(Name);
-		Name.remove(2);     //remove the element from 2nd index of the linkedlist
+		Name.remove(2);//remove the element from 2nd index of the linkedlist
 		System.out.println(Name);
 
 		for(String str:Name)
